@@ -16,7 +16,7 @@
 title: TravisQ.com
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  ...musings of the aforementioned.
+  "...musings of the aforementioned."
 twitter_username: tquizzle
 github_username: tquizzle
 minimal_mistakes_skin: aqua
