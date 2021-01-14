@@ -23,7 +23,7 @@ minimal_mistakes_skin: aqua
 search: true
 url: "https://travisq.com"
 repository: "tquizzle/travisq.com"
-logo: "/assets/images/apple-touch-icon-144x144.png"
+logo: "/assets/images/apple-touch-icon.png"
 breadcrubs: true
 
 
@@ -62,8 +62,8 @@ plugins:
 
 author:
   name   : "Travis Quinnelly"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/TQ-bio-photo.jpg"
+  bio    : "Go hard."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

@@ -3,7 +3,7 @@ layout: post
 title: "Owner's Manual for a Life within Time and Space"
 excerpt: Everything applies
 modified:
-# categories: blog
+categories: blog
 tags: [universe, life, lessons, space]
 ---
 
