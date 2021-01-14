@@ -3,14 +3,8 @@ layout: post
 title: "Owner's Manual for a Life within Time and Space"
 excerpt: Everything applies
 modified:
-categories: blog
+# categories: blog
 tags: [universe, life, lessons, space]
-image:
-  feature: space-time.jpg
-  credit: cdesignz2k
-  creditlink: http://cdesignz2k.deviantart.com/
-comments: true
-share: true
 ---
 
 ### Owner's Manual for a Life within Time and Space
