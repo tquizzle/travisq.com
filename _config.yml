@@ -67,22 +67,10 @@ author:
   name   : "Travis Quinnelly"
   avatar : "/assets/images/avatar-new.jpg"
   bio    : "..."
-#  links:
+  links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://travisq.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/tquizzle"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/tquizzle"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/tquinnelly"
-
-footer:
-  links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tquizzle"
@@ -92,6 +80,18 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/tquinnelly"
+
+footer:
+  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/tquizzle"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/tquizzle"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/tquinnelly"
 
 defaults:
   # _posts
