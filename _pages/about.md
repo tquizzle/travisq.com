@@ -2,7 +2,12 @@
 permalink: /about/
 title: "About"
 ---
+<figure class="pull-right">
+	<img src="https://en.gravatar.com/userimage/3189071/0b3bcb3ea081f0f6104cc352d8df5182.png?size=400" alt="Avatar">
+</figure>
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### Personal
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My thoughts are very scattered but occasionally written here, there and wherever. I suppose this is my “official” homepage.
+
+I’m a middle-aged man in Tulsa, Oklahoma currently working to try to get ahead in life, but who am I kidding.

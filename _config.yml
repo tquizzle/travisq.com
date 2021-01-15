@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   "...musings of the aforementioned."
 twitter_username: tquizzle
 github_username: tquizzle
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: contrast
 search: true
 url: "https://travisq.com"
 repository: "tquizzle/travisq.com"
@@ -68,9 +68,6 @@ author:
   avatar : "/assets/images/avatar-new.jpg"
   bio    : "..."
   links:
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://travisq.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tquizzle"
@@ -81,8 +78,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/tquinnelly"
 
-footer:
-  links:
+# footer:
+#  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/tquizzle"
