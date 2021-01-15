@@ -4,14 +4,13 @@
 
 @charset "utf-8";
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 /*
  TQ Edit
  */
 
-.site-logo img {
-    max-height: none;
+ .site-logo img {
+    max-height: 250px;
 }
-
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials

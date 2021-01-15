@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Travis Q's Jams"
 excerpt: "I like music"
 modified: 2015-10-08
@@ -12,6 +11,15 @@ I love music. Here a few of my current or favorite playlists.
 
 
 ## Spotify
+
+### January 2021
+<iframe src="https://open.spotify.com/embed/playlist/3tp8dwY1q7IWpdOOLKlMjB" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+### December 2020
+<iframe src="https://open.spotify.com/embed/playlist/5oXOwPiRKkAgzccweBoc93" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+### Healing Radio
+<iframe src="https://open.spotify.com/embed/playlist/37i9dQZF1E8PAB7pQS4L5B" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### August Audios
 <iframe src="https://open.spotify.com/embed/user/tquinnelly/playlist/0yfr1Tci1ljaI93EYHZVDo" width="100%" height="380" frameborder="0" allowtransparency="true"></iframe>
