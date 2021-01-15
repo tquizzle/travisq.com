@@ -23,7 +23,7 @@ minimal_mistakes_skin: contrast
 search: true
 url: "https://travisq.com"
 repository: "tquizzle/travisq.com"
-logo: "/assets/images/apple-touch-icon.png"
+logo: "/assets/images/site-logo.png"
 breadcrubs: true
 analytics:
   provider: "google-gtag"
