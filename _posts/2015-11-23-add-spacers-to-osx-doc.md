@@ -1,11 +1,11 @@
 ---
-layout: single
+
 title: "Add Spacers to your OSX Dock"
 modified: 2015-11-23
 categories: blog
 excerpt: "Using the terminal, you can quickly add a spacer to your OSX dock."
 tags: [OSX, Mac, spacers, dock]
-
+comments: false
 ---
 
 Have you ever felt like putting a spacer in your OSX dock? I certainly have, and wanted to but never took the time to figure it out. Today I stumbled across [a post that explains it perfectly](https://awesometoast.com/add-spacers-to-your-macs-dock/).
