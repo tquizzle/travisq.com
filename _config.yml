@@ -25,7 +25,10 @@ url: "https://travisq.com"
 repository: "tquizzle/travisq.com"
 logo: "/assets/images/apple-touch-icon-144x144.png"
 breadcrubs: true
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-253329-13"
 
 # Build settings
 markdown: kramdown
@@ -64,19 +67,19 @@ author:
   name   : "Travis Quinnelly"
   avatar : "/assets/images/avatar-new.jpg"
   bio    : "Go hard."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://travisq.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tquizzle"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tquizzle"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/tquinnelly"
+#  links:
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://travisq.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/tquizzle"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/tquizzle"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/tquinnelly"
 
 footer:
   links:
