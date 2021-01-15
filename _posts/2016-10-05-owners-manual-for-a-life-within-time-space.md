@@ -5,6 +5,10 @@ excerpt: Everything applies
 modified:
 categories: blog
 tags: [universe, life, lessons, space]
+header:
+  overlay_image: /assets/images/space-time.jpg
+  overlay_filter: 0.5 
+  caption: "Credit: [cdesignz2k](http://cdesignz2k.deviantart.com/)"
 ---
 
 ### Owner's Manual for a Life within Time and Space
